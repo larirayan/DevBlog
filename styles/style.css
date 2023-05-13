@@ -10,6 +10,12 @@
 }
 
 @font-face {
+    font-family: LeagueSpartan;
+    src: url("../fonts/League_Spartan/static/LeagueSpartan-ExtraBold.ttf");
+    font-weight: bolder;
+}
+
+@font-face {
     font-family: Rubik;
     src: url("../fonts/Rubik/static/Rubik-Regular.ttf");
     font-weight: normal;

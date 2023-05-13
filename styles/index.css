@@ -27,28 +27,29 @@ nav li{
 
 nav a{
     text-decoration: none;
-    color: #8652B7; 
+    color: #346653; 
     font-size: 13pt;
+    font-weight: bold;
     transition: 0.5s;
 }
 
 nav a:hover{
-    font-weight: bold;
+    font-size: 14pt;
     transition: 0.5s;
 }
 
 #btnCadastro{
     width: 100px;
     height: 40px;
-    border: 2px solid #8652B7;
+    border: 2px solid #346653;
     border-radius: 5px;
-    color: #8652B7;
+    color: #346653;
     background-color: #EEF5DB;
     text-align: center;
 }
 
 #btnCadastro:hover{
-    background-color: #8652B7;
+    background-color: #346653;
     color: #EEF5DB;
 }
 
@@ -57,14 +58,14 @@ nav a:hover{
     height: 40px;
     border: none;
     border-radius: 5px;
-    background-color: #FF70D2;
+    background-color: #7CB26A;
     color: white;
 
 }
 
 #btnLogin:hover{
     background-color: #EEF5DB;
-    color: #FF70D2;
-    border: #FF70D2 2px solid;
+    color: #7CB26A;
+    border: #7CB26A 2px solid;
 }
 
