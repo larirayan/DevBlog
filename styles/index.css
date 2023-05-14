@@ -6,6 +6,11 @@ header{
 
 h1{
     font-family: Rubik;
+    text-align: center;
+}
+
+p{
+    font-family: LeagueSpartan;
 }
 
 nav{
@@ -68,4 +73,41 @@ nav a:hover{
     color: #7CB26A;
     border: #7CB26A 2px solid;
 }
+
+#banner{
+    width: 70%;
+    height: 400px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+    background-color: #dbdfac;
+    border-radius: 10px;
+}
+
+#banner img{
+    border-radius: 10px;
+    width: 90%;
+    height: 90%;
+}
+
+#banner picture{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+
+
+#txtbanner{
+    width: 50%;
+    height: 100%;
+    margin: 30px auto;
+}
+
+#txtbanner p{
+    margin: 20px 20px;
+    text-align: center;
+    font-size: 14pt;
+}
+
 
